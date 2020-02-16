@@ -17,3 +17,4 @@ cd ../nmap_results
 ./get_web_server.sh
 cd ../scripts
 ./nmap_long.sh
+../nmap_results/get_web_server.sh
